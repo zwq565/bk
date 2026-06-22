@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <circle cx="60" cy="60" r="60" fill="#667eea"/>
+  <circle cx="60" cy="48" r="22" fill="#ffffff"/>
+  <ellipse cx="60" cy="95" rx="35" ry="28" fill="#ffffff"/>
+  <text x="60" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#667eea" font-weight="bold">B</text>
+</svg>
