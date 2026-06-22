@@ -2,7 +2,8 @@ baseURL = "https://your-blog.pages.dev/"
 languageCode = "zh-cn"
 title = "我的个人博客"
 theme = "hugo-PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 enableRobotsTXT = true
 
 [params]
